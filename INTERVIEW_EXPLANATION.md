@@ -1,5 +1,4 @@
 
-
 ## Simple Explanation
 
 PhishGuard is a real-time email security monitoring dashboard. It connects to a mailbox using IMAP, fetches unread emails, extracts forensic artifacts, analyzes risk indicators, and classifies each email as phishing, spam, marketing, suspicious, or safe.
