@@ -1,0 +1,22 @@
+﻿From: Security Team <security@fakebank-example.com>
+To: victim@example.com
+Reply-To: attacker@gmail.com
+Return-Path: attacker@gmail.com
+Subject: Urgent Account Verification Required
+Date: Wed, 13 May 2026 10:00:00 +0530
+Message-ID: <phishing-test-001@fakebank-example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Your bank account has been temporarily locked due to unusual activity.
+
+Please verify your account immediately using the link below:
+
+http://fakebank-login-example.com/verify
+
+Failure to verify your account may result in permanent suspension.
+
+Regards,
+FakeBank Security Team

@@ -1,0 +1,3 @@
+fakeinvoice-login-example.com
+random-prize-example.com
+﻿fakebank-login-example.com

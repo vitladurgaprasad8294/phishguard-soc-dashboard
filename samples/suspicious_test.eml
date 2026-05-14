@@ -1,0 +1,17 @@
+﻿From: Account Support <support@unknown-example.com>
+To: user@example.com
+Subject: Password Reset Notification
+Date: Wed, 13 May 2026 10:30:00 +0530
+Message-ID: <suspicious-test-001@unknown-example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A password reset was requested for your account.
+
+Check the status here:
+http://192.168.1.50/reset
+
+Regards,
+Support Team

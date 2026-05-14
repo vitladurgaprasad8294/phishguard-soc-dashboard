@@ -1,0 +1,37 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Local secrets - never commit these
+.env
+.streamlit/secrets.toml
+
+# Local databases and evidence files
+database/*.db
+database/*.sqlite
+live_emails/
+quarantine/
+exports/
+reports/
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
+
+# Backups
+backup*/
+backup_*/
+*_backup_*/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

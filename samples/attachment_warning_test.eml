@@ -1,0 +1,31 @@
+﻿From: Billing Department <billing@fakeinvoice-example.com>
+To: victim@example.com
+Reply-To: attacker@gmail.com
+Return-Path: attacker@gmail.com
+Subject: Urgent Payment Invoice Attached
+Date: Thu, 14 May 2026 11:00:00 +0530
+Message-ID: <attachment-test-001@fakeinvoice-example.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Your payment failed. Please open the attached invoice immediately and verify your account.
+
+Login here:
+http://fakeinvoice-login-example.com/verify
+
+Regards,
+Billing Team
+
+--BOUNDARY123
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIHNhZmUgdGVzdCBmaWxlIGZvciBQaGlzaEd1YXJkLiBJdCBpcyBub3QgZXhlY3V0YWJsZS4=
+
+--BOUNDARY123--
