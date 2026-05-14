@@ -75,6 +75,6 @@ Provides command center, intake, investigation, and settings pages.
 
 The project successfully provides a real-time email security dashboard with automated classification, evidence storage, IOC extraction, risk scoring, threat intelligence enrichment, and investigation workflow.
 
-## Resume Summary
+## Summary
 
 Developed a real-time email security monitoring and phishing detection SOC dashboard using Python, Streamlit, SQLite, IMAP, IOC extraction, attachment analysis, MITRE ATT&CK mapping, and optional VirusTotal threat intelligence.
